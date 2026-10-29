@@ -15,8 +15,12 @@
 <label>Modelo:</label>
 <input type="text" nome="modelo" required>
 
-<label>Nome do operador</label>
+<label>Nome do operador:</label>
 <input type="text" nome= "nome do operador" required>
+
+<button submit ="Cadastro de robos"></button>
+
+
 
 
 
