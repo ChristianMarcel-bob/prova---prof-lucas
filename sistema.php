@@ -46,6 +46,19 @@ public $modelo;
 public $energia;
 public $potencia;
 
+public function __construct()
+{
+   $Explorador (100, 20);
+   $Engenheiro (120, 15);
+   $Defensor (150, 30);
+}
+
+         }
+
+
+
+
+
 
 
 }
