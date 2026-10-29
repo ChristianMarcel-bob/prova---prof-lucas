@@ -33,19 +33,24 @@
         $Operador= $_POST["operador"];
 
         
-abstract class robo {
+
+         class robo {
 
 public function nome();
 public function modelo ();
 public function energia ();
-public function potencia()
+public function potencia();
+
+public $nome;
+public $modelo;
+public $energia;
+public $potencia;
 
 
-
-
-return
 
 }
+
+
 
 
 
