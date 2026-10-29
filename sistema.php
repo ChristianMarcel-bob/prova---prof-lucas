@@ -32,8 +32,20 @@
         $Modelo= $_POST["modelo"];
         $Operador= $_POST["operador"];
 
-        echo 
+        
+abstract class robo {
 
+public function nome();
+public function modelo ();
+public function energia ();
+public function potencia()
+
+
+
+
+return
+
+}
 
 
 
