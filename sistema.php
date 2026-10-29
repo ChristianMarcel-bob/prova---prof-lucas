@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <form method="POST"
+    <form method="POST">
 
         <label>Nome:</label>
         <input type="text" nome="nome" required>
@@ -16,13 +16,13 @@
 
         <label>Modelo:</label>
         <input type="text" nome="modelo" required>
-
+        <br><br>
         <label>Operador:</label>
-        <input type="text" nome="operador" required>
-
+        <input type="text" nome="nome do operador" required>
+        <br><br>
         <button submit="Cadastro de robos"></button>
 
-</form>
+        </form>
 
         <?php
 
@@ -32,7 +32,11 @@
         $Modelo= $_POST["modelo"];
         $Operador= $_POST["operador"];
 
-        
+        echo 
+
+
+
+
 
 
 
